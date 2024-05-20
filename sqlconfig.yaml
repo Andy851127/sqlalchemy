@@ -1,0 +1,5 @@
+mysql_dev:
+  host: host
+  user: user
+  password: password
+  db: db
